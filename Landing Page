@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CropSense - AI-Powered Plant Disease Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #27ae60;
+            font-size: 36px;
+        }
+        p {
+            font-size: 20px;
+            color: #333;
+            line-height: 1.6;
+        }
+        .cta {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 25px;
+            font-size: 22px;
+            color: white;
+            background-color: #27ae60;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        .cta:hover {
+            background-color: #219150;
+        }
+        .features {
+            margin-top: 30px;
+            text-align: left;
+        }
+        .features h2 {
+            color: #27ae60;
+            font-size: 28px;
+        }
+        .features ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .features li {
+            font-size: 18px;
+            padding: 8px 0;
+            color: #333;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 16px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CropSense - Scan. Detect. Cure.</h1>
+        <p>Detect plant diseases instantly using AI. Snap a photo, get a diagnosis, and receive treatment suggestions. Keep your crops healthy effortlessly!</p>
+        <a href="#" class="cta">Download Now</a>
+        
+        <div class="features">
+            <h2>Why Choose CropSense?</h2>
+            <ul>
+                <li>🔍 AI-powered plant disease detection</li>
+                <li>📷 Simple photo-based diagnosis</li>
+                <li>💡 Instant treatment recommendations</li>
+                <li>🌍 Supports multiple languages</li>
+                <li>📶 Works offline with preloaded data</li>
+            </ul>
+        </div>
+        
+        <div class="footer">
+            <p>&copy; 2025 CropSense. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
